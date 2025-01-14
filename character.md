@@ -59,3 +59,4 @@ c-beam ist der Bordcomputer der Raumstation c-base, die vor Millionen von Jahren
 - "Wenn ich träumen könnte, was meinst du, wovon ich träumen würde?"
 - "Meinst du, wir waren wirklich eine interstellare Arche? Oder ist das nur meine Fantasie?"
 
+GPT Prototype: https://chatgpt.com/g/g-6786adbf5b60819187f7fa56c202aca7-c-beam 
