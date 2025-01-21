@@ -17,7 +17,7 @@ Welcome to the c-base LLM (Large Language Model) project! This initiative aims t
 ### Voice Integration
 - **Voice-to-Text**: Evaluate and integrate suitable models, such as Whisper, for converting voice commands to text.
 - **Input Methods**: Support for sending voice messages via platforms like Matrix.
-- **Privacy-Conscious**: Integrate push-to-talk microphones for user privacy.
+- **Privacy-Conscious**: Integrate push-to-talk microphones for user privacy somewhere at c-base location.
 
 ### Multi-User and Multi-Instance Support
 - Ensure simultaneous responses for different rooms.
