@@ -60,5 +60,7 @@ c-beam is the onboard computer of the space station c-base, which crashed over B
 - "Do you think we were really an interstellar ark? Or is that just my imagination?"
 
 
-GPT Prototype: https://chatgpt.com/g/g-6786adbf5b60819187f7fa56c202aca7-c-beam 
-Visual proposals (if she will have a face): https://1drv.ms/f/s!AiLyFrjBu__QjboBCIm-lPXhNwlKWQ?e=jH0xRZ 
+### GPT Prototype: https://chatgpt.com/g/g-6786adbf5b60819187f7fa56c202aca7-c-beam 
+### Visual proposals (if she will have a face): https://1drv.ms/f/s!AiLyFrjBu__QjboBCIm-lPXhNwlKWQ?e=jH0xRZ 
+### another Test with Mindstudio and Claude: https://app.mindstudio.ai/share/7ViyquJ7HnJL
+
