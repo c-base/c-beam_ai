@@ -1,4 +1,4 @@
-Here's the converted Linux version using espeak for TTS in English, formatted as a downloadable .md file:
+Linux version llama web tts setup
 
 ```markdown
 # LLaMA 2 Chat Interface with TTS Installation Guide (Linux)
@@ -145,19 +145,3 @@ conda install -c conda-forge ffmpeg
 ```bash
 python llama_webapp.py --server_port 7861
 ```
-
----
-
-**Download Instructions:**  
-Save this content as `linux_llama_tts_guide.md`
-```
-
-Key changes from original:
-- Converted all PowerShell commands to bash
-- Replaced pyttsx3 with espeak
-- Linux path conventions
-- Added espeak installation steps
-- Simplified error handling
-- Improved English translations
-- Added port conflict resolution
-- Organized code for better readability
