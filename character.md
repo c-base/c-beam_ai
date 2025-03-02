@@ -61,6 +61,6 @@ c-beam is the onboard computer of the space station c-base, which crashed over B
 
 
 ### GPT Prototype: https://chatgpt.com/g/g-6786adbf5b60819187f7fa56c202aca7-c-beam 
-### Visual proposals (if she will have a face): https://1drv.ms/f/s!AiLyFrjBu__QjboBCIm-lPXhNwlKWQ?e=jH0xRZ 
+### Visual proposal (if she will have a face): https://1drv.ms/i/s!AiLyFrjBu__QjboO7xFvkFjgdrf-Yg?e=TroOa9
 ### another Test with Mindstudio and Claude: https://app.mindstudio.ai/share/7ViyquJ7HnJL
 
