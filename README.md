@@ -48,3 +48,7 @@ Welcome to the c-base LLM (Large Language Model) project! This initiative aims t
 
 ## Future
 1. Connection to c-beam controlling of c-base lights etc. via c-beam app
+
+Tech.Doc: https://code.c-base.org/kind 
+
+
