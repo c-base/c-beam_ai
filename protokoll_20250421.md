@@ -18,7 +18,7 @@ verantwortlichkeiten & aufgabenbereiche:
 *         alternative serverstandorte prüfen (lüftung, stromkosten!)
 
 Sasquatch zeigte: 
-local installed c-beam "ecosystem" mit OpenWeb (Auswahl verschiedener, möglichst ungefilterter Models im Pulldown Menü) und n8n - > Anbindung an Telegram / WhatsApp , 
+local installed c-beam "ecosystem" mit OpenWeb UI (Auswahl verschiedener, möglichst ungefilterter Models im Pulldown Menü) und n8n - > Anbindung an Telegram / WhatsApp , 
 RAG extra, c-beam Customisation extra- so kann man sich aussuchen, was man mit c-beam erstellen möchte (Konversation oder Coding oder was auch immer...) 
 - hat super TTS Voice generiert, sehr ähnlich zu unserer Stimme in der Schleuse
 - komplett modularer und getrennter Ansatzt in Containern / Anbindung an MCP oder A2A möglich / LDAP und c-beam api kommt später dazu
